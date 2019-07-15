@@ -1,6 +1,6 @@
 # GoBarber_back - API
   Agendamento de  serviços de  prestados por Barbeiros e profissionais da área de estética. 
-  Este projeto foi desenvolvido no <a href="https://rocketseat.com.br/bootcamp"> Rockeseat GoStack Bootcamp</a>
+  Este projeto foi desenvolvido no <a href="https://rocketseat.com.br/bootcamp" target="_blank"> Rockeseat GoStack Bootcamp</a>
 
 # Tecnologias Utilizadas :
 
